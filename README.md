@@ -1,3 +1,5 @@
+With these function you can calculate delta, gamma, vega, theta, rho
+
 Option Explicit
 
  
